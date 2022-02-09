@@ -1,0 +1,1 @@
+This is a simple program that transforms strings like uppercase, lowercase, capitalize, remove multiple spaces and remove spaces.
